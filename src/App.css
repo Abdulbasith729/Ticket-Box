@@ -1,0 +1,19 @@
+
+#auth-Container{
+
+}
+.auth-inner-container{
+    padding: 75px;
+    background-color: #f54236;
+}
+.login-btn{
+background-color: #f54236 !important;
+border: none !important;
+width: 100%;
+}
+
+.Logout-btn{
+    background-color: #f54236 ;
+    border: none 
+
+}
